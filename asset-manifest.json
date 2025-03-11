@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Birthday-app/static/css/main.21b57ff1.css",
+    "main.js": "/Birthday-app/static/js/main.2cbf666d.js",
+    "static/js/766.44e888c6.chunk.js": "/Birthday-app/static/js/766.44e888c6.chunk.js",
+    "static/media/home-bg.jpg": "/Birthday-app/static/media/home-bg.4f1086face6ac8045e72.jpg",
+    "static/media/gifts-bg.jpg": "/Birthday-app/static/media/gifts-bg.4a6a62a1af3efeb46926.jpg",
+    "index.html": "/Birthday-app/index.html",
+    "main.21b57ff1.css.map": "/Birthday-app/static/css/main.21b57ff1.css.map",
+    "main.2cbf666d.js.map": "/Birthday-app/static/js/main.2cbf666d.js.map",
+    "766.44e888c6.chunk.js.map": "/Birthday-app/static/js/766.44e888c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b57ff1.css",
+    "static/js/main.2cbf666d.js"
+  ]
+}
